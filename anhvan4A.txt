@@ -21,12 +21,16 @@ Buổi 1:
 	Đại từ: 
 	
 	
-	rút gọn mdqh
+	Rút gọn mdqh
 		- Bỏ đại từ quan hệ
 		- đưa động từ về nguyên mẫu sau đó đổi động từ:  chủ động -> V-ing, bị động thành Ved/V3
 		VD: The latest research which results about the pollutions levels will be published immediately
 		-> .. research resulting about ....
 
-Liên từ : Kết hợp
-	 Phụ thuộc
-	Tương quan
+-Liên từ : Kết hợp
+	   Phụ thuộc
+	   Tương quan
+
+- Rút gọn mđ trạng từ: khi chủ ngữ ở 2 vế là một
+vd: Before he went to be, he drank milk
+--> Before going to bed, he drank milk
