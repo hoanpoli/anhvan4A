@@ -34,3 +34,5 @@ Buổi 1:
 - Rút gọn mđ trạng từ: khi chủ ngữ ở 2 vế là một
 vd: Before he went to be, he drank milk
 --> Before going to bed, he drank milk
+
+
