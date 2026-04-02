@@ -12,27 +12,119 @@ Kiem tra doc: 15%  (part5, part6, part7) - 50 phút
 
 Cuối kỳ 55 câu: part5: 30cau, part6: 8cau, part7: 17cau - 50 phút
 
-Buổi 1:
-- Nounds and pronouns: Từ loại
-	Danh từ: 
-		- 1 số loại: số ít (singlular) và số nhiều (plural), danh từ đếm được và không đếm được, danh từ chung và danh từ riêng
+Buổi 1: Từ loại
+- Danh từ: 
+	- 1 số loại: 
+		- Đếm được số ít / không đếm được : không có s/es
+		- Đếm được số nhiều
+	
+	- Vị trí và chức năng:
+		- Danh từ đếm được số ít không bao giờ đứng 1 mình, cần có mạo từ (a/an/the) hoặc tính từ sở hữu đứng trước:
+			Ví dụ: I have a cat, I have cats , I have her cat
+		- Danh từ chỉ người luôn luôn đếm được: 
+			- Cần có mạo từ hoặc tính từ sở hữu đi kèm (nếu số ít)
+			- hoặc thêm s/es
+		- Danh từ viết hoa (Tên riêng, tên người, tên công ty, ...) luôn luôn là số ít, cho dù tên riêng đó có thêm 's' hay không
+			Ví dụ:  ABC Companies is trying
 		
-		- Vị trí và chức năng: 
-	Đại từ: 
-	
-	
-	Rút gọn mdqh
-		- Bỏ đại từ quan hệ
-		- đưa động từ về nguyên mẫu sau đó đổi động từ:  chủ động -> V-ing, bị động thành Ved/V3
-		VD: The latest research which results about the pollutions levels will be published immediately
-		-> .. research resulting about ....
 
--Liên từ : Kết hợp
-	   Phụ thuộc
-	   Tương quan
+	- Ưu tiên đáp án: chỉ chọn danh từ nếu chỗ trống là danh từ chính (từ đúng cuối) của cụm danh từ
+		+ chỉ vật: "ion", "ment", "nes", "sis", "ce", "ity", "ism". Ví dụ: decision, environment, awareness, analysis, performance, ability, socialism
+		+ chỉ người: "er", "or", "ee", "ant", "ist", "yst". Ví dụ: teacher, doctor, employee, assistant, analyst
+
+	- Một số từ không phải danh từ
+		- mention(v)
+		- consider (v)
+		- deliver  (v) : giao hàng
+		- guarantee (v) : đảm bảo
+	
+	- Một số từ vừa danh từ, vừa là động từ:
+		- train : tàu lửa / đào tạo ; huấn luyện
+		- leave: lá cây / rời đi, để lại
+		- issue: ấn bản, vấn đề / phát hành, phát ra 
+		- need/demand: nhu cầu/ cần
+		- store: cửa hàng/ lưu trữ
+		- sign: biến báo, tờ thông báo / kí(tên)
+		- charge: phí / tính phí, sạc pin
+		- address: địa chỉ, bài nói chuyện / giải quyết, nói chuyện
+		- detail: chi tiết/ trình bày chi tiết
+
+	- Một số danh từ đặc biệt có đuôi 'al' (thông thường nó là tính từ, tuy nhiên V + al -> N)
+		- approve (v) -> approval (n)
+		- propose (v) -> proposal (n): sự đề xuất
+		- renew (v) -> renewal (n): sự gia hạn
+		- arrive (v) -> arrival (n): điểm đến
+		- dispose (v) -> disposal (n): sự vứt bỏ
+		- remove (n) -> removal (n): sự di chuyển
+
+	- Một số danh từ có đuôi 'ive' (thông từ nó là tính từ):
+		- representative (n): người đại diện
+		- objective (n): mục tiêu, khách quan
+		- alternative (n): sự thay thế
+		- initiative (n): sáng kiến
+	
+	- từ đặc biệt khác
+		- timetable (n)
+
+
+- Tính từ: 
+	- adj + N
+	- tobe + adj	
+	- Động từ liên kết (feel, look, get, taste, smell, seem, appear, turn, become, remain, stay) + adj
+	- Find/ Deem (tưởng rằng)/ keep/remain /make + O + (cụm giới từ) + adj (mô tả cho tân ngữ)
+	
+	- Ưu tiên đáp án tính tính từ gốc: bad, good
+		sau đó: đuôi ful/al/ble/ic/ive/ous
+		sau đó: lấy trạng từ bỏ đuôi "ly", ví dụ quickly (adv) -> quick (adj)
+		sau đó: chọn tính từ đuôi "ed/ing"
+
+	- Một số tính từ có đuôi "ly" (thông thường đuôi ly là trạng từ) :
+		- Friendly;
+		- Likely;
+		- Weekly; 
+		- Hourly;
+		- Costly (đắt tiền); 
+		- Untimely ( không đúng lúc); 
+		- Timely ( đúng lúc)
+
+- Động từ chia thì chủ động:
+	- Có đuôi: ise, ize, en, ate, ...
+
+- Một số chủ ngữ đặc biệt
+	- Every / No / Some / Any  + body / thing / one (12 đại từ bất định): chia số ít
+		Ví dụ: everybody / everyone is leaving ; everything looks wonderful
+
+	- N1 + giới từ + N2: chia theo N1
+		Ví dụ: The student of languages is (chia theo student chứ k phải languages) difficult to understand thoroughly.
+
+	- The number of N(s, es) + V (số ít):
+		Ví dụ: The number of applicants has increased dramatically because of our currently reputation in the market ( Số lượng những người tham gia .....)
+
+	- A number of N(s, es) + V (số nhiều): A number of ở đây = many - nhiều cái gì
+		Ví dụ: A number of students are late for class due to severe weather condition (Nhiều/Những học sinh đến lớp muộn do thời tiết khắc nghiệt).
+
+	- There are + N (s/es)
+	- There is + N (số ít -> cần có mạo từ)
+
+	- Either/neither of + N (số nhiều) + V (số ít)
+	- Either a or b + V : hoặc 1 trong 2
+	- Neither a nor b + : không có cái nào trong 2 cái
+
+	- Tên riêng/ danh từ riêng (Viết hoa) luôn luôn + V số ít, dù danh từ đó có thêm 's' hay không
+	
+- Rút gọn mdqh
+	- Bỏ đại từ quan hệ
+	- đưa động từ về nguyên mẫu sau đó đổi động từ:  chủ động -> V-ing, bị động thành Ved/V3
+	VD: The latest research which results about the pollutions levels will be published immediately
+	-> .. research resulting about ....
 
 - Rút gọn mđ trạng từ: khi chủ ngữ ở 2 vế là một
 vd: Before he went to be, he drank milk
 --> Before going to bed, he drank milk
+
+
+-Liên từ : Kết hợp
+	   Phụ thuộc
+	   Tương quan
 
 
