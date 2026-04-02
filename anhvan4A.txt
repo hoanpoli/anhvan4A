@@ -69,8 +69,8 @@ Buổi 1: Từ loại
 
 - Tính từ: 
 	- adj + N
-	- tobe + adj	
-	- Động từ liên kết (feel, look, get, taste, smell, seem, appear, turn, become, remain, stay) + adj
+	- S + tobe + adj	
+	- Động từ liên kết: S + (feel, look, get, taste, smell, seem, appear, turn, become, remain, stay) + adj . Khi dùng dạng này thì k có tobe, không có: is looked
 	- Find/ Deem (tưởng rằng)/ keep/remain /make + O + (cụm giới từ) + adj (mô tả cho tân ngữ)
 	
 	- Ưu tiên đáp án tính tính từ gốc: bad, good
@@ -91,16 +91,16 @@ Buổi 1: Từ loại
 	- Có đuôi: ise, ize, en, ate, ...
 
 - Một số chủ ngữ đặc biệt
-	- Every / No / Some / Any  + body / thing / one (12 đại từ bất định): chia số ít
+	- Every / No / Some / Any  + body / thing / one (12 đại từ bất định): chia số ít, tức là V(s,es)
 		Ví dụ: everybody / everyone is leaving ; everything looks wonderful
 
 	- N1 + giới từ + N2: chia theo N1
 		Ví dụ: The student of languages is (chia theo student chứ k phải languages) difficult to understand thoroughly.
 
-	- The number of N(s, es) + V (số ít):
+	- The number of N(s, es) + V (số ít, thêm s, es): Số lượng ....
 		Ví dụ: The number of applicants has increased dramatically because of our currently reputation in the market ( Số lượng những người tham gia .....)
 
-	- A number of N(s, es) + V (số nhiều): A number of ở đây = many - nhiều cái gì
+	- A number of N(s, es) + V (số nhiều, k thêm s,es): A number of ở đây = many - Nhiều cái gì
 		Ví dụ: A number of students are late for class due to severe weather condition (Nhiều/Những học sinh đến lớp muộn do thời tiết khắc nghiệt).
 
 	- There are + N (s/es)
