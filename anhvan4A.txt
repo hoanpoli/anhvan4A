@@ -87,6 +87,42 @@ Buổi 1: Từ loại
 		- Untimely ( không đúng lúc); 
 		- Timely ( đúng lúc)
 
+- Giới từ:
+	- across = through = throughout: xuyên suốt khu vực, xuyên suốt tháng/năm ( throughout month/year), chú ý: from countries across the world hoặc across countries.
+
+	- near = by = next to = adjacent : gần kề
+
+	- along + road / avenue / river : dọc theo con đường / dòng sông
+
+
+	- by (bởi): trong câu bị động
+	- by (trước): mốc thời gian
+	- by (gần): vị trị
+	- by (bằng cách): by + V-ing
+
+	1. deal with = handle = resolve, solve = address: xử lý, giải quyết
+	2. encounter with: đương đầu với
+	3. comply with = adhere to = abide by: tuân thủ
+	4. provide sombody with something: cung cấp cho ai cái gì
+	5. provide somethin to somebody: cung cấp cái gì cho ai
+	6. ahead of = prior to = in advance: trước, sớm
+	7. ahead of schedule: trước tiến độ/lịch trình
+	8. behind schedule: trễ tiến độ/lịch trình
+	9. on schedule: đúng tiến độ/lịch trình
+	10. on behalf of: thay mặt cho ai
+	11. out of stock: hết hàng
+	12. out of order = out of work = out of service: hư hỏng
+	13. under + contruction/  guidance / supervision / consideration: đang được xây dựng/ hướng dẫn / giám sát / cân nhắc
+	14. apply somethig to: nộp cái gì tới
+	15. apply for: ứng tuyển cho vị trí
+	16. pay in cash: trả bằng tiền mặt
+	17. In charge of = responsible for: chịu trách nhiệm cho
+	18. proceed with: tiến hành với
+	19. adjust to = adapt to: thích nghỉ với
+	20. at no cose = at no charge: miễn phí
+	21. at + hội nghị (convention = conference)
+
+
 - Động từ chia thì chủ động:
 	- Có đuôi: ise, ize, en, ate, ...
 
@@ -114,9 +150,15 @@ Buổi 1: Từ loại
 	
 - Rút gọn mdqh
 	- Bỏ đại từ quan hệ
-	- đưa động từ về nguyên mẫu sau đó đổi động từ:  chủ động -> V-ing, bị động thành Ved/V3
+	- Đưa động từ về nguyên mẫu sau đó đổi động từ:  chủ động -> (S) + V-ing, bị động thành (S) + Ved/V3
 	VD: The latest research which results about the pollutions levels will be published immediately
 	-> .. research resulting about ....
+
+	- Đối với whom/that + S + V, khi rút gọn chỉ cần bỏ S
+	VD: The girl whom i love is very cute 
+		-> The girl I love is very cute
+
+	- MĐQH dạng S + be + adj --> rút bỏ còn adj
 
 - Rút gọn mđ trạng từ: khi chủ ngữ ở 2 vế là một
 vd: Before he went to be, he drank milk
