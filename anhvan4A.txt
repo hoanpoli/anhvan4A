@@ -154,7 +154,7 @@ Buổi 1: Từ loại
 	VD: The latest research which results about the pollutions levels will be published immediately
 	-> .. research resulting about ....
 
-	- Đối với whom/that + S + V, khi rút gọn chỉ cần bỏ S
+	- Đối với whom/that + S + V, khi rút gọn chỉ cần bỏ whom/that
 	VD: The girl whom i love is very cute 
 		-> The girl I love is very cute
 
