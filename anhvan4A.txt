@@ -70,7 +70,7 @@ Buổi 1: Từ loại
 - Tính từ: 
 	- adj + N
 	- S + tobe + adj	
-	- Động từ liên kết: S + (feel, look, get, taste, smell, seem, appear, turn, become, remain, stay) + adj . Khi dùng dạng này thì k có tobe, không có: is looked
+	- Động từ liên kết: S + (feel, look, get, taste, smell, seem, appear, turn, become, remain, stay) + adj . Khi dùng dạng này thì k có tobe, không có: is looked, nhưng có is looking for
 	- Find/ Deem (tưởng rằng)/ keep/remain /make + O + (cụm giới từ) + adj (mô tả cho tân ngữ)
 	
 	- Ưu tiên đáp án tính tính từ gốc: bad, good
@@ -123,6 +123,38 @@ Buổi 1: Từ loại
 	21. at + hội nghị (convention = conference)
 
 
+- Liên từ : nối 2 mệnh đề
+	Kết hợp
+	Phụ thuộc
+	Tương quan: (ngoài chức năng nối 2 mệnh đề, nó còn có thể nối 2 từ cùng loại)
+		- Not only ... but (also)... (as well)
+		- Neither ... nor
+		- Either ... or
+	
+	Đẳng lập: For / And / Nor / But / Or / Or else (nếu k thì) / Yet / So / only if
+
+	- Một số liên từ chỉ thời gian: 
+		- After / Before: có thể vừa là liên từ hoặc giới từ
+		- Until (cho đến khi): có thể vừa là liên từ hoặc giới từ. Vd until 2 am this morning 
+		- Since: có thể vừa là liên từ hoặc giới từ
+		- As soon as: ngay khi
+		- While (trong khi)
+		- When
+		- By the time (có mệnh đề chia thì hoàn thành)
+
+- Một số cụm giới từ / liên từ tương ứng
+	- Liên từ Mặc dù: Although / though / even though + S + V .....
+	- Giới từ Mặc dù: In spite of / despite + Np / V-ing
+
+	- Liên từ Bởi vì: Because / Since / As / Now that + S + V
+	- Giới từ Bởi vì: Because of / Since/ Due to / Owing to / Thanks to + Np / V-ing
+
+- Một số Trạng từ liên kết 2 câu đơn (k có chức năng tạo thành câu kép) hay bị nhầm lẫn với Liên từ:
+	- Moreover, In addition, Besides, Also: Ngoài ra, thêm vào đó
+	- Therefor: Do đó
+	- However, nevertheless: tuy nhiên
+	Riêng However có thể làm liên từ, tức là mđề 1, However, mđề 2 -> đây là 1 câu kép
+
 - Động từ chia thì chủ động:
 	- Có đuôi: ise, ize, en, ate, ...
 
@@ -143,8 +175,8 @@ Buổi 1: Từ loại
 	- There is + N (số ít -> cần có mạo từ)
 
 	- Either/neither of + N (số nhiều) + V (số ít)
-	- Either a or b + V : hoặc 1 trong 2
-	- Neither a nor b + : không có cái nào trong 2 cái
+	- Either a or b + Vo: hoặc 1 trong 2
+	- Neither a nor b + Vo: không có cái nào trong 2 cái
 
 	- Tên riêng/ danh từ riêng (Viết hoa) luôn luôn + V số ít, dù danh từ đó có thêm 's' hay không
 	
@@ -163,10 +195,5 @@ Buổi 1: Từ loại
 - Rút gọn mđ trạng từ: khi chủ ngữ ở 2 vế là một
 vd: Before he went to be, he drank milk
 --> Before going to bed, he drank milk
-
-
--Liên từ : Kết hợp
-	   Phụ thuộc
-	   Tương quan
 
 
